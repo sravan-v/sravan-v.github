@@ -1,1 +1,3 @@
-Portfolio Link
+I am a front end programmer. Learning backend...
+
+I'm fascinated by technology and keen to learn new technologies and programming concepts that will help me sharpen my skills as a developer and improve the quality of my projects.
